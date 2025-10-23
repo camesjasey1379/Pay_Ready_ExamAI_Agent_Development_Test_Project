@@ -1,0 +1,13 @@
+{
+  "classification": "Technical Issue",
+  "sentiment": "neutral",
+  "urgency": "medium",
+  "main_issue": "Change account email",
+  "metadata": {
+    "customer_id": null,
+    "key_points": [
+      "Update email address"
+    ]
+  },
+  "response_template": "Thank you for reaching out about changing your account email. To assist you with this technical issue, please follow the steps outlined in our support documentation. If you encounter any difficulties, feel free to contact us for further assistance."
+}
