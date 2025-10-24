@@ -1,13 +1,16 @@
 {
   "classification": "Technical Issue",
-  "sentiment": "neutral",
+  "sentiment": "negative",
   "urgency": "medium",
-  "main_issue": "Change account email",
+  "main_issue": "Files not syncing properly across devices",
   "metadata": {
-    "customer_id": null,
+    "customer_id": "CL-2049",
     "key_points": [
-      "Update email address"
-    ]
+      "Documents not syncing between laptop and phone",
+      "Syncing indefinitely after app update"
+    ],
+    "evaluation_reasoning": "Version B is more accurate and relevant as it provides additional key points that specifically highlight the issues mentioned in the email, such as documents not syncing between laptop and phone and syncing indefinitely after the app update. This extra detail shows a deeper understanding of the customer's problem.",
+    "winning_prompt": "B"
   },
-  "response_template": "Thank you for reaching out about changing your account email. To assist you with this technical issue, please follow the steps outlined in our support documentation. If you encounter any difficulties, feel free to contact us for further assistance."
+  "response_template": "I understand the frustration you must be feeling with the files not syncing properly across your devices. Rest assured, our technical team is actively investigating this issue and working on a solution. Thank you for bringing this to our attention."
 }
