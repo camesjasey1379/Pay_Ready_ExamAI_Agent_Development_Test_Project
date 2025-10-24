@@ -3,7 +3,10 @@ from agent.llm_client import LLMClient
 from agent.classifier import EmailClassifier
 from agent.responder import EmailResponder
 
+#Agent coordinator that triggers distinct workflow steps
 def process_email(email_text: str):
+
+    
     llm = LLMClient()
     classifier = EmailClassifier(llm)
     responder = EmailResponder(llm)

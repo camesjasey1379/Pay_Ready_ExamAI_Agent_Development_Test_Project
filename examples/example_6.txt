@@ -1,0 +1,12 @@
+Subject: Files not syncing properly across devices
+
+Hi Support Team,
+
+I’ve noticed that my documents aren’t syncing between my laptop and phone since the last app update. 
+The app shows “Syncing…” indefinitely, but the changes never appear on the other device. 
+
+I tried reinstalling and even logging out/in, but the issue persists. Can someone please help me fix this?
+
+Best,
+Catherine Lopez
+Account ID: CL-2049

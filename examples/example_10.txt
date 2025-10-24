@@ -1,0 +1,10 @@
+Subject: Questions about data export options
+
+Hi Support,
+
+I’m preparing an internal audit and need to export data from your platform. 
+Could you clarify which file formats are supported (CSV, JSON, XML?),
+ and whether the exports can be automated using your API?
+
+Appreciate your time,
+Erin C.
